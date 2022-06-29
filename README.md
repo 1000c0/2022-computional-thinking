@@ -6,8 +6,8 @@
 
 ## 🎓 Prof. Choi Sungchul
 
-## 📝TIL
+### 📝 TIL
 
-## 📄Assignments
+### 📄 Assignments
 
-## 🔖Work in lecture
+### 🔖 Work in lecture
