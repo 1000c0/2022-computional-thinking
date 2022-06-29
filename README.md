@@ -1,4 +1,6 @@
-# 📜 Lecture : Computional Thinking for Science and Engineering
+# 📜 Lecture : Computional Thinking for Science and Engineering 
+
+## with Python
 
 ## 🏫 Pukyong National University 
 
