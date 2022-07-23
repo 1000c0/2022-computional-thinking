@@ -8,6 +8,9 @@
 
 ## 🎓 Prof. Choi Sungchul
 
+## 📚 What I Learned
+- <img src = https://blog.kakaocdn.net/dn/qwhqJ/btqP6oj5JyE/fVlc87HgsTCkAfiLsjPK01/img.png width = "20" height = "20"> Python
+
 ### 📝 TIL
 
 ### 📄 Assignments
