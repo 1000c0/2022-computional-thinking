@@ -1,4 +1,6 @@
-# 📜 Lecture : Computional Thinking for Science and Engineering 
+# Computional Thinking for Science and Engineering 
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
 
 ## 🏫 Pukyong National University 
 
@@ -7,7 +9,6 @@
 ## 🎓 Prof. Choi Sungchul
 
 ## 📚 What I Learned
-- <img src = https://blog.kakaocdn.net/dn/qwhqJ/btqP6oj5JyE/fVlc87HgsTCkAfiLsjPK01/img.png width = "20" height = "20"> Python
 
 ### 📝 TIL
 
