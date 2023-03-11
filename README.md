@@ -1,4 +1,4 @@
-# Computional Thinking for Science and Engineering 
+# Computational Thinking for Science and Engineering 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
@@ -10,8 +10,8 @@
 
 ## 📚 What I Learned
 
-### 📝 TIL
+#### 📝 TIL
 
-### 📄 Assignments
+#### 📄 Assignments
 
-### 🔖 Work in lecture
+#### 🔖 Work in lecture
