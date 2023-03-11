@@ -14,4 +14,4 @@
 
 #### 📄 Assignments
 
-#### 🔖 Work in lecture
+#### 🔖 Works in lecture
