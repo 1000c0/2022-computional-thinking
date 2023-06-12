@@ -6,8 +6,6 @@
 
 ## 🗓 2022 year 1st semester 22.3.2 ~ 22.6.8
 
-## 🎓 Prof. Choi Sungchul
-
 ## 📚 What I Learned
 
 #### 📝 TIL
